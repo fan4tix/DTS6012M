@@ -1,0 +1,6 @@
+DTS6012M    KEYWORD1
+begin   KEYWORD2
+startLaser  KEYWORD2
+stopLaser   KEYWORD2
+getDistance KEYWORD2
+getRawDistance  KEYWORD2
