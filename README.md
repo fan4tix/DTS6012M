@@ -1,7 +1,3 @@
-Here is a clean, professional `README.md` you can use for your repository:
-
----
-
 # DTS6012M Arduino Library
 
 Arduino library for the **DTS6012M dToF (Direct Time-of-Flight) rangefinder module**.
