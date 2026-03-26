@@ -64,7 +64,7 @@ float DTS6012M::getDistance()
 /*
  * Get last raw distance value
  */
-uint16_t DTS6012M::getRawDistance() const
+uint16_t DTS6012M::getRawDistance()
 {
     return _rawDistance;
 }
